@@ -1,0 +1,12 @@
+body {
+    color:black;
+    font-size: 25px;
+    background-color: teal;
+}
+img{
+    width: 100px;
+    height:100px;
+}
+div h1,h2 {
+    font-size: 20px;
+}
